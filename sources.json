@@ -1,4 +1,18 @@
 {
-  "sources": [],
-  "lastUpdated": "2026-01-16T22:41:12.914Z"
+  "sources": [
+    {
+      "id": "7wy74q7gn",
+      "name": "الاتصال الرقمي",
+      "originalFileName": "advisor/1768603305148_الاتصال الرقمي.pdf",
+      "type": "PDF",
+      "category": "advisor",
+      "content": "https://raw.githubusercontent.com/mon3m1999/4you-files/main/advisor/1768603299105_______________.pdf",
+      "mimeType": "application/pdf",
+      "theme": "cyan",
+      "sha": "3d54ed7b0e687300f3292dabff1a5e3297af8fea",
+      "size": 1256410,
+      "uploadedAt": "2026-01-16T22:41:45.149Z"
+    }
+  ],
+  "lastUpdated": "2026-01-16T22:41:47.001Z"
 }
